@@ -19,7 +19,7 @@ button{
   text-align: center;
   text-decoration: none;
   margin: auto;
-  display: inline-block;
+  display: block;
   font-size: 12px;
   font-weight: bold;
 }
